@@ -1,3 +1,134 @@
-body {
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;700&family=Roboto:wght@400;700&display=swap");
+
+* {
   margin: 0px;
+  /* border: 1px solid orange; */
+}
+
+
+
+.logo-container {
+  padding-top: 22px;
+  padding-bottom: 94px;
+  padding-left: 121px;
+}
+
+.logo {
+  width: 112px;
+  height: 66px;
+}
+
+.how-to-watch-container {
+  /* padding-top: px; */
+  /* padding-right: ; */
+  padding-bottom: 82px;
+  padding-left: 122px;
+  display: flex;
+  flex-direction: row;
+  /* width: 100%; */
+}
+
+.how-to-watch-wrapper {
+  margin-right: 10.7%;
+  /* padding-top: 12px; */
+}
+
+.properties-in-line-container {
+  display: flex;
+  flex-direction: row;
+  padding-bottom: 13px;
+}
+
+.property-in-line {
+  display: flex;
+  flex-direction: row;
+  margin-right: 25px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 115%;
+  align-items: center;
+}
+
+.header-icons-img {
+  width: 22px;
+  height: 21px;
+}
+
+/* .how-to-watch {
+} */
+
+.how-to-watch-h1 {
+  display: block;
+  width: 628px;
+  height: 190px;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 80px;
+  line-height: 101.38%;
+  padding-top: 13px;
+}
+
+.how-to-watch-p {
+  display: block;
+  width: 414px;
+  height: 62px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 150%;
+}
+
+.director {
+  width: 304px;
+  height: 356px;
+  margin-top: 38px;
+}
+
+.quote-container {
+  display: flex;
+  justify-content: center;
+}
+
+.quote {
+  width: 454.63px;
+  height: 200px;
+  background: #1e4681;
+  border-radius: 5px;
+  transform: rotate(-4deg);
+  /* padding-top: 21px; */
+  /* padding-bottom: 8px; */
+  padding-left: 29px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  margin-left: -138px;
+  margin-top: 4px;
+}
+
+.quote-itself {
+  display: block;
+  width: 430.59px;
+  height: 113px;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 130%;
+  color: #ffffff;
+}
+
+.quote-auhtor {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 130%;
+  text-align: right;
+  color: #ffffff;
+  padding-right: 21px;
 }
