@@ -204,3 +204,44 @@
   line-height: 130%;
   margin-top: 2%;
 }
+
+.activity-format {
+  padding-left: 121px;
+}
+.activity-format-h2 {
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 55px;
+  line-height: 101.38%;
+}
+.activity-format-properties {
+  margin-top: 9.6%;
+  margin-left: 0.1%;
+  display: flex;
+}
+.activity-format-property {
+  width: 273px;
+  margin-right: 5.4%;
+}
+.activity-format-h4 {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 130%;
+  display: block;
+  margin-bottom: 3%;
+}
+
+.communication {
+  margin-left: 3%;
+}
+
+.activity-format-p {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 130%;
+}
