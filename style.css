@@ -6,8 +6,6 @@
   /* border: 1px solid orange; */
 }
 
-
-
 .logo-container {
   padding-top: 22px;
   padding-bottom: 94px;
@@ -131,4 +129,78 @@
   text-align: right;
   color: #ffffff;
   padding-right: 21px;
+}
+
+.about-course {
+  padding-left: 121px;
+  padding-top: 174px;
+}
+.about-course-div {
+  margin-top: 56px;
+  display: flex;
+  flex-direction: row;
+}
+.about-course-h2 {
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 55px;
+  line-height: 101.38%;
+}
+
+.about-course-p-container {
+  width: 670px;
+  margin-right: 14%;
+}
+
+.about-course-p {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 150%;
+  margin-bottom: 35px;
+}
+.about-course-img {
+  width: 314px;
+  height: 315px;
+  margin-top: 2%;
+}
+.about-course-brief {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 3%;
+}
+.about-course-brief-img {
+  width: 232px;
+  height: 203px;
+  margin-right: 10%;
+}
+
+.about-course-brief-properties {
+  display: flex;
+  flex-direction: row;
+  margin-top: 1%;
+}
+
+.about-course-brief-property {
+  margin-right: 21%;
+}
+.about-course-brief-h4 {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 130%;
+}
+.about-course-brief-p {
+  display: block;
+  width: 150px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 130%;
+  margin-top: 2%;
 }
