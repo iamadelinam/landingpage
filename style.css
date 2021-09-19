@@ -207,6 +207,7 @@
 
 .activity-format {
   padding-left: 121px;
+  padding-top: 176px;
 }
 .activity-format-h2 {
   font-family: Roboto Slab;
@@ -244,4 +245,72 @@
   font-weight: normal;
   font-size: 18px;
   line-height: 130%;
+}
+
+.what-to-learn {
+  padding-left: 121px;
+  padding-top: 11%;
+  display: flex;
+  flex-direction: row;
+}
+
+.what-to-learn-div {
+  padding-top: 4.55%;
+}
+
+.what-to-learn-h2 {
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 55px;
+  line-height: 101.38%;
+}
+
+.what-to-learn-list {
+  padding-top: 8.5%;
+  width: 680px;
+}
+
+.what-to-learn-li {
+  display: flex;
+}
+
+.what-to-learn-dot {
+  margin-right: 0.8%;
+}
+.what-to-learn-p {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 150%;
+}
+.what-to-learn-images {
+  display: flex;
+  flex-direction: column;
+  margin-left: 4.85%;
+}
+.what-to-learn-img-1 {
+  width: 274px;
+  height: 160px;
+}
+.what-to-learn-img-2 {
+  width: 312px;
+  height: 180px;
+  margin-top: 44.9%;
+  margin-left: 6%;
+}
+
+.black-dot {
+  width: 6px;
+  height: 6px;
+  background-color: #000000;
+  border-radius: 50%;
+}
+
+.green-line {
+  width: 386px;
+  height: 9px;
+  background: #bac99f;
+  margin-left: 2px;
 }
