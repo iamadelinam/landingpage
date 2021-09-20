@@ -315,7 +315,6 @@
   margin-left: 2px;
 }
 
-
 .course-program {
   padding-left: 84px;
   padding-top: 15.75%;
@@ -355,7 +354,7 @@
 .course-program-prorerty {
   width: 399px;
   height: 328px;
-  background: #FFFFFF;
+  background: #ffffff;
   box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25);
   border-radius: 30px;
   margin-bottom: 3.3%;
@@ -378,7 +377,6 @@
   padding-top: 2%;
   padding-left: 5%;
   box-sizing: content-box;
-  
 }
 
 .course-program-p {
@@ -389,8 +387,100 @@
   line-height: 130%;
   padding-top: 8.5%;
 }
-
-.course-program-writer {
-  
+.seminar {
+  padding-top: 0.5%;
 }
 
+.course-program-writer {
+  width: 399px;
+  height: 328px;
+  margin-top: 19%;
+  position: relative;
+}
+
+.course-program-writer-img {
+  margin-left: 29%;
+}
+
+.course-authors {
+}
+
+.course-authors-h2 {
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 55px;
+  line-height: 101.38%;
+}
+.course-authors-div {
+  display: flex;
+}
+.author-danila-kuznetsov {
+  display: flex;
+  flex-direction: column;
+}
+
+.author-danila-skvortsov {
+  display: flex;
+  flex-direction:column-reverse
+}
+
+.author-info {
+  display: flex;
+  flex-direction: row;
+}
+
+.author-info-img {
+  width: 189px;
+  height: 178px;
+}
+
+.author-name {
+  display: flex;
+  flex-direction: column;
+}
+
+.author-name-div {
+  display: flex;
+  flex-direction: row;
+}
+
+.author-name-h3 {
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 101.38%;
+}
+
+.author-name-i-div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #ffffff;
+  box-shadow: 1px 1px 8px #5784c8;
+  border-radius: 50%;
+  width: 28px;
+  height: 28px;
+  margin-left: 10px;
+}
+
+.author-p {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 130%;
+}
+
+.author-description {
+  width: 399px;
+  height: 274px;
+  background: #ffffff;
+  box-shadow: 1px 1px 20px rgb(0 0 0 / 25%);
+  border-radius: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  padding-left: 25px;
+}
