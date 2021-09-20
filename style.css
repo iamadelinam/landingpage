@@ -314,3 +314,83 @@
   background: #bac99f;
   margin-left: 2px;
 }
+
+
+.course-program {
+  padding-left: 84px;
+  padding-top: 15.75%;
+}
+
+.course-program-div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.course-program-h2 {
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 55px;
+  line-height: 101.38%;
+  margin-left: 2.72%;
+}
+
+.black-line {
+  width: 630px;
+  height: 14px;
+  background: #000000;
+  margin-top: 0.5%;
+}
+
+.course-program-prorerties {
+  padding-top: 9.8%;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 93.77%;
+}
+
+.course-program-prorerty {
+  width: 399px;
+  height: 328px;
+  background: #FFFFFF;
+  box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25);
+  border-radius: 30px;
+  margin-bottom: 3.3%;
+}
+
+.course-program-img {
+  width: 399px;
+  height: 160px;
+}
+
+.course-program-h4 {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 130%;
+}
+
+.course-program-prorerty-description {
+  padding-top: 2%;
+  padding-left: 5%;
+  box-sizing: content-box;
+  
+}
+
+.course-program-p {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 130%;
+  padding-top: 8.5%;
+}
+
+.course-program-writer {
+  
+}
+
