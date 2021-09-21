@@ -402,8 +402,8 @@
   margin-left: 29%;
 }
 
-.course-authors {
-}
+/* .course-authors {
+} */
 
 .course-authors-h2 {
   font-family: Roboto Slab;
@@ -422,7 +422,7 @@
 
 .author-danila-skvortsov {
   display: flex;
-  flex-direction:column-reverse
+  flex-direction: column-reverse;
 }
 
 .author-info {
@@ -483,4 +483,77 @@
   flex-direction: column;
   justify-content: space-evenly;
   padding-left: 25px;
+}
+
+.results {
+  background: #efefef;
+  padding-top: 20.59%;
+  padding-bottom: 8%;
+  padding-left: 8.5%;
+}
+
+.results-h2 {
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 55px;
+  line-height: 101.38%;
+}
+
+.results-div {
+  width: 791px;
+  height: 451px;
+  background: #ffffff;
+  box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.25);
+  border-radius: 30px;
+  margin-top: 5.5%;
+  margin-left: 0.3%;
+}
+
+.results-p {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 150%;
+  display: inline-block;
+  width: 700px;
+  height: 203px;
+  padding-top: 5%;
+  padding-left: 5.7%;
+}
+
+.results-feedback {
+  display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding-left: 3.2%;
+    padding-top: 1.4%;
+}
+
+.results-feedback-img {
+  width: 190px;
+  height: 169px;
+}
+
+.results-feedback-div {
+  width: 353px;
+height: 90px;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+  padding-left: 4%;
+}
+
+.results-feedback-h3 {
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 101.38%;
+}
+
+.results-feedback-fb {
+  width: 32px;
+  height: 31px;
 }
