@@ -525,10 +525,10 @@
 
 .results-feedback {
   display: flex;
-    align-items: center;
-    justify-content: flex-start;
-    padding-left: 3.2%;
-    padding-top: 1.4%;
+  align-items: center;
+  justify-content: flex-start;
+  padding-left: 3.2%;
+  padding-top: 1.4%;
 }
 
 .results-feedback-img {
@@ -538,10 +538,10 @@
 
 .results-feedback-div {
   width: 353px;
-height: 90px;
-display: flex;
-flex-direction: column;
-justify-content: space-between;
+  height: 90px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
   padding-left: 4%;
 }
 
@@ -556,4 +556,120 @@ justify-content: space-between;
 .results-feedback-fb {
   width: 32px;
   height: 31px;
+}
+
+.start {
+  background: #9dc9c8;
+  padding-left: 8.45%;
+  padding-top: 12.1%;
+  padding-bottom: 14%;
+}
+
+.start-h2 {
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 55px;
+  line-height: 101.38%;
+  margin-bottom: 5.19%;
+}
+
+/* .start-price-div {
+} */
+
+.start-price-p {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 101.38%;
+}
+
+.start-price {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 80px;
+  line-height: 101.38%;
+}
+
+.start-description-wrapper {
+  margin-top: 5.7%;
+  display: flex;
+}
+
+.start-description-div {
+  width: 294px;
+  margin-right: 5.34%;
+}
+
+.start-description-h {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 101.38%;
+  margin-bottom: 6%;
+}
+
+.start-description-p {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 101.38%;
+}
+
+footer {
+  background-color: #000000;
+  padding-top: 3.5%;
+  padding-left: 8.47%;
+  padding-right: 13.8%;
+}
+
+.footer {
+  display:flex;
+  justify-content: space-between;
+}
+
+.logo-white {
+  width: 115px;
+  height: 68px;
+}
+
+.media {
+}
+
+.media-img {
+  width: 33px;
+  height: 33px;
+}
+
+.contacts-wrapper {
+}
+
+.contacts {
+  display: flex;
+}
+
+.contacts-img {
+  width: 27px;
+  height: 27px;
+}
+
+.contacts-p {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 101.38%;
+  color: #ffffff;
+}
+
+.sign {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 101.38%;
 }
