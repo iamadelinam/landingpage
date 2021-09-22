@@ -45,7 +45,7 @@
   font-family: Roboto;
   font-style: normal;
   font-weight: normal;
-  font-size: 20px;
+  font-size: 1.25em;
   line-height: 115%;
   align-items: center;
 }
@@ -65,7 +65,7 @@
   font-family: Roboto Slab;
   font-style: normal;
   font-weight: bold;
-  font-size: 80px;
+  font-size: 5em;
   line-height: 101.38%;
   padding-top: 13px;
 }
@@ -77,7 +77,7 @@
   font-family: Roboto;
   font-style: normal;
   font-weight: normal;
-  font-size: 20px;
+  font-size: 1.25em;
   line-height: 150%;
 }
 
@@ -93,23 +93,30 @@
 }
 
 .quote {
-  width: 454.63px;
+  /* width: 454.63px;
   height: 200px;
   background: #1e4681;
   border-radius: 5px;
-  transform: rotate(-4deg);
+  transform: rotate(-4deg); */
   /* padding-top: 21px; */
   /* padding-bottom: 8px; */
-  padding-left: 29px;
+  /* padding-left: 29px;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
   margin-left: -138px;
-  margin-top: 4px;
+  margin-top: 4px; */
+  width: 483.63px;
+  height: 200px;
+  background: #1e4681;
+  border-radius: 5px;
+  transform: rotate(-4deg);
+  margin-right: 9.62%;
+  margin-top: 0.35%;
 }
 
 .quote-itself {
-  display: block;
+  /* display: block;
   width: 430.59px;
   height: 113px;
   font-family: Roboto Slab;
@@ -118,17 +125,37 @@
   font-size: 25px;
   line-height: 130%;
   color: #ffffff;
+  color: #000000; */
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1.564em;
+  line-height: 130%;
+  color: #ffffff;
+  padding-top: 4.15%;
+  padding-left: 5.65%;
 }
 
 .quote-auhtor {
-  font-family: Roboto;
+  /* font-family: Roboto;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
   line-height: 130%;
   text-align: right;
   color: #ffffff;
-  padding-right: 21px;
+  padding-right: 21px; */
+
+
+  font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.25em;
+    line-height: 130%;
+    text-align: right;
+    color: #ffffff;
+    padding-top: 1%;
+    padding-right: 4.3%;
 }
 
 .about-course {
@@ -140,11 +167,12 @@
   display: flex;
   flex-direction: row;
 }
-.about-course-h2 {
+
+.section-title {
   font-family: Roboto Slab;
   font-style: normal;
   font-weight: bold;
-  font-size: 55px;
+  font-size: 3.43em;
   line-height: 101.38%;
 }
 
@@ -157,7 +185,7 @@
   font-family: Roboto;
   font-style: normal;
   font-weight: normal;
-  font-size: 24px;
+  font-size: 1.5em;
   line-height: 150%;
   margin-bottom: 35px;
 }
@@ -191,7 +219,7 @@
   font-family: Roboto;
   font-style: normal;
   font-weight: bold;
-  font-size: 25px;
+  font-size: 1.564em;
   line-height: 130%;
 }
 .about-course-brief-p {
@@ -200,7 +228,7 @@
   font-family: Roboto;
   font-style: normal;
   font-weight: normal;
-  font-size: 18px;
+  font-size: 1.124em;
   line-height: 130%;
   margin-top: 2%;
 }
@@ -209,13 +237,7 @@
   padding-left: 121px;
   padding-top: 176px;
 }
-.activity-format-h2 {
-  font-family: Roboto Slab;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 55px;
-  line-height: 101.38%;
-}
+
 .activity-format-properties {
   margin-top: 9.6%;
   margin-left: 0.1%;
@@ -229,7 +251,7 @@
   font-family: Roboto;
   font-style: normal;
   font-weight: bold;
-  font-size: 25px;
+  font-size: 1.564em;
   line-height: 130%;
   display: block;
   margin-bottom: 3%;
@@ -243,7 +265,7 @@
   font-family: Roboto;
   font-style: normal;
   font-weight: normal;
-  font-size: 18px;
+  font-size: 1.124em;
   line-height: 130%;
 }
 
@@ -256,14 +278,6 @@
 
 .what-to-learn-div {
   padding-top: 4.55%;
-}
-
-.what-to-learn-h2 {
-  font-family: Roboto Slab;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 55px;
-  line-height: 101.38%;
 }
 
 .what-to-learn-list {
@@ -282,7 +296,7 @@
   font-family: Roboto;
   font-style: normal;
   font-weight: normal;
-  font-size: 24px;
+  font-size: 1.5em;
   line-height: 150%;
 }
 .what-to-learn-images {
@@ -327,11 +341,7 @@
 }
 
 .course-program-h2 {
-  font-family: Roboto Slab;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 55px;
-  line-height: 101.38%;
+
   margin-left: 2.72%;
 }
 
@@ -369,7 +379,7 @@
   font-family: Roboto;
   font-style: normal;
   font-weight: bold;
-  font-size: 30px;
+  font-size: 1.873em;
   line-height: 130%;
 }
 
@@ -383,7 +393,7 @@
   font-family: Roboto;
   font-style: normal;
   font-weight: normal;
-  font-size: 25px;
+  font-size: 1.564em;
   line-height: 130%;
   padding-top: 8.5%;
 }
@@ -405,13 +415,6 @@
 /* .course-authors {
 } */
 
-.course-authors-h2 {
-  font-family: Roboto Slab;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 55px;
-  line-height: 101.38%;
-}
 .course-authors-div {
   display: flex;
 }
@@ -449,7 +452,7 @@
   font-family: Roboto Slab;
   font-style: normal;
   font-weight: bold;
-  font-size: 30px;
+  font-size: 1.873em;
   line-height: 101.38%;
 }
 
@@ -469,7 +472,7 @@
   font-family: Roboto;
   font-style: normal;
   font-weight: normal;
-  font-size: 18px;
+  font-size: 1.124em;
   line-height: 130%;
 }
 
@@ -492,14 +495,6 @@
   padding-left: 8.5%;
 }
 
-.results-h2 {
-  font-family: Roboto Slab;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 55px;
-  line-height: 101.38%;
-}
-
 .results-div {
   width: 791px;
   height: 451px;
@@ -514,7 +509,7 @@
   font-family: Roboto;
   font-style: normal;
   font-weight: normal;
-  font-size: 20px;
+  font-size: 1.25em;
   line-height: 150%;
   display: inline-block;
   width: 700px;
@@ -549,7 +544,7 @@
   font-family: Roboto Slab;
   font-style: normal;
   font-weight: bold;
-  font-size: 30px;
+  font-size: 1.873em;
   line-height: 101.38%;
 }
 
@@ -566,11 +561,6 @@
 }
 
 .start-h2 {
-  font-family: Roboto Slab;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 55px;
-  line-height: 101.38%;
   margin-bottom: 5.19%;
 }
 
@@ -581,7 +571,7 @@
   font-family: Roboto;
   font-style: normal;
   font-weight: normal;
-  font-size: 25px;
+  font-size: 1.564em;
   line-height: 101.38%;
 }
 
@@ -607,7 +597,7 @@
   font-family: Roboto;
   font-style: normal;
   font-weight: normal;
-  font-size: 25px;
+  font-size: 1.564em;
   line-height: 101.38%;
   margin-bottom: 6%;
 }
@@ -616,7 +606,7 @@
   font-family: Roboto;
   font-style: normal;
   font-weight: normal;
-  font-size: 18px;
+  font-size: 1.124em;
   line-height: 101.38%;
 }
 
@@ -625,10 +615,11 @@ footer {
   padding-top: 3.5%;
   padding-left: 8.47%;
   padding-right: 13.8%;
+  /* padding-bottom: 14.55%; */
 }
 
 .footer {
-  display:flex;
+  display: flex;
   justify-content: space-between;
 }
 
@@ -661,7 +652,7 @@ footer {
   font-family: Roboto;
   font-style: normal;
   font-weight: normal;
-  font-size: 25px;
+  font-size: 1.564em;
   line-height: 101.38%;
   color: #ffffff;
 }
@@ -670,6 +661,7 @@ footer {
   font-family: Roboto;
   font-style: normal;
   font-weight: normal;
-  font-size: 18px;
+  font-size: 1.124em;
   line-height: 101.38%;
+  color: #ffffff;
 }
