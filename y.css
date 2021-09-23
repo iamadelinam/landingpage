@@ -1,0 +1,98 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;700&family=Roboto:wght@400;700&display=swap");
+
+* {
+  margin: 0px;
+  font-style: normal;
+}
+
+.logo-container {
+  padding-top: 1.45%;
+  padding-bottom: 6.46%;
+  padding-left: 8.41%;
+}
+
+.logo {
+  width: 8.49%;
+}
+
+.how-to-watch-container {
+  padding-bottom: 5.77%;
+  padding-left: 8.49%;
+  display: flex;
+  flex-direction: row;
+}
+
+.how-to-watch-wrapper {
+  margin-right: 10.7%;
+  /* padding-top: 12px; */
+}
+
+.properties-in-line-container {
+  display: flex;
+  flex-direction: row;
+  padding-bottom: 2%;
+}
+
+.roboto-font {
+  font-family: Roboto;
+}
+
+.roboto-slab-font {
+  font-family: Roboto Slab;
+}
+
+.n-weight {
+  font-weight: 400;
+}
+
+.b-weight {
+  font-weight: 700;
+}
+
+h1 {
+  font-size: 80px;
+}
+
+.section-title {
+  font-size: 55px;
+}
+
+.card-author-title {
+  font-size: 30px;
+}
+
+.subtitle {
+  font-size: 25px;
+}
+
+.text {
+  font-size: 24px;
+}
+
+.subtext {
+  font-size: 20px;
+}
+
+.sign{
+  font-size: 18px;
+}
+
+.section-title-l-h {
+  line-height: 101.38%;
+}
+
+.l-h-115 {
+  line-height: 115%;
+
+}
+
+.l-h-130 {
+  line-height: 130%;
+
+}
+
+.l-h-150 {
+  line-height: 150%;
+
+}
